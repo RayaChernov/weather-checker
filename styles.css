@@ -1,0 +1,31 @@
+body {
+background-image: url(images/clouds.jpg);
+background-size: 1500px 875px;
+}
+.ground {
+  background-color:#ffffff;
+  opacity: 0.85;
+  width: 900px;
+  margin: 75px auto auto auto;
+  border-radius: 15px;
+}
+.intro {
+  color: #2777D2;
+  font-family: 'Roboto', sans-serif;
+  font-size: 40px;
+  text-align: center;
+}
+.para {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  text-align: left;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.forms2 {
+    border: none;
+}
+.text {
+    width: 100%;
+    text-align: center;
+}
